@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chitigpt-dev-95808-authRole",
+      "UnauthRoleArn": "arn:aws:iam::819245696044:role/amplify-chitigpt-dev-95808-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::819245696044:role/amplify-chitigpt-dev-95808-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-chitigpt-dev-95808-deployment",
+      "UnauthRoleName": "amplify-chitigpt-dev-95808-unauthRole",
+      "StackName": "amplify-chitigpt-dev-95808",
+      "StackId": "arn:aws:cloudformation:ap-south-1:819245696044:stack/amplify-chitigpt-dev-95808/50d01fd0-318e-11f1-8e7a-06cba9c0b543",
+      "AmplifyAppId": "d34k7wto6za160"
+    },
+    "categories": {
+      "auth": {
+        "chitigpt50636fe0": {}
+      },
+      "storage": {
+        "cv": {}
+      }
+    }
+  }
+}
